@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Curtis</h1>
 
-- 🔭 I’m currently working on Web3 Dapps and personal projects
+- 🔭 I’m currently working on <a href="https://medpath.app/" target="_blank"
+alt="MedPath.App">MedPath App</a>
 
-- 🌱 I’m currently learning lots of new things! Web3, ML, Robotics!
+- 🌱 I’m currently learning lots of new things! Supabase, Web3, ML, Robotics!
 
 - 👯 I’m looking to collaborate on Web3 and ML projects.
 
